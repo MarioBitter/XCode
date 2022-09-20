@@ -9,4 +9,7 @@ import Foundation
 
 struct MyModel {
     var myString:String = ""
+    init () {
+        
+    }
 }
